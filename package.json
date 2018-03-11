@@ -2,10 +2,9 @@
   "name": "project",
   "version": "1.0.0",
   "description": "Stamina Training",
-  "main": "node scheduler.js",
+  "main": "scheduler.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "scheduler.js"
+    "start": "node scheduler.js"
   },
   "author": "mha",
   "license": "ISC",
